@@ -6,7 +6,12 @@
 
     <groupId>com.yunyi</groupId>
     <artifactId>flink-study</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>flink-study-common</module>
+        <module>flink-study-basic</module>
+    </modules>
 
-    
+
 </project>
